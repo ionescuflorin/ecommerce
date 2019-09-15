@@ -1,4 +1,10 @@
-# Make the project working
+# Tech used
+- react
+- redux
+- firebase
+- sass
+
+# How to make the project working
 
 1. Download files
 2. Write in terminal 'yarn' for installing dependencies
